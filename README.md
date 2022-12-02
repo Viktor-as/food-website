@@ -4,4 +4,4 @@
 
 Test website made using HTML, CSS and  "JavaScript" knowledge. The focus was on testing CSS animations with "transform" and "transition".  "JavaScript" used to add classes to elements at certain time intervals or on click.
 
- #### <a href="http://food.internetiniusvetainiukurimas.lt/"> Click here for live demo</a>
+ #### <a href="http://food.internetiniusvetainiukurimas.lt/" target="_blank"> Click here for live demo</a>
